@@ -58,7 +58,7 @@ FullstackApp/
 ### 1. **Clone & Setup**
 
 ```powershell
-git clone https://github.com/yourusername/google-meet-web.git
+git clone https://github.com/yosradab/google-meet-link-generator.git
 cd google-meet-web
 ```
 
