@@ -127,15 +127,6 @@ See: dev-notes.md – Full journey from CLI to web, including:
 
 ---
 
-## One-Click Start (Optional)
-
-```powershell
-# start.ps1 (Windows)
-Start-Process powershell -ArgumentList "-NoExit", "-Command", "cd backend; venv\Scripts\activate; uvicorn main:app --reload --port=8000"
-Start-Process powershell -ArgumentList "-NoExit", "-Command", "cd frontend; npm run dev"
-```
-
----
 
 ## Deployment (Future)
 
@@ -146,16 +137,7 @@ Start-Process powershell -ArgumentList "-NoExit", "-Command", "cd frontend; npm 
 
 ---
 
-## License
 
-[MIT License](LICENSE) – Free to use, modify, and share.
-
----
-
-**Built with passion for developer experience.**  
-*For Google Developer Advocate Test – October 2025*
-
----
 
 **Want the ZIP?** → Run this:
 
