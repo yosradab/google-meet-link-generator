@@ -103,19 +103,9 @@ Visit: [http://localhost:3000](http://localhost:3000)
 3. `token.json` created in `backend/` (auto-saved)
 4. **Meet link appears + copy button works!**
 
----
-
-## Screenshots
-
-| Create Form | Result + Copy |
-|-----------|-------------|
-| ![Create](https://via.placeholder.com/400x300?text=Create+Meet+Form) | ![Result](https://via.placeholder.com/400x300?text=Meet+Link+Copied!) |
-
----
-
 ## Developer Diary
 
-See: [`dev-notes.md`](dev-notes.md) – Full journey from CLI to web, including:
+See: dev-notes.md – Full journey from CLI to web, including:
 
 - Python 3.13 `google-auth` bug (fixed with `==2.27.0`)
 - `calendar.py` → `google_calendar.py` (naming conflict)
@@ -173,9 +163,8 @@ Start-Process powershell -ArgumentList "-NoExit", "-Command", "cd frontend; npm 
 Compress-Archive -Path * -DestinationPath ..\google-meet-web-submission.zip -Exclude venv,node_modules,credentials.json,token.json
 ```
 
-**Submit**: GitHub repo link + `dev-notes.md` + (optional) 2-min Loom video.
 
----
 
-**¡Listo para impresionar!**  
-Share your GitHub link when done — I’ll help you polish the final submission!
+
+
+
