@@ -161,10 +161,8 @@ google-meet-link-generator/
 │   │   ├── CreateMeeting.jsx
 │   │   └── MeetingList.jsx
 │   ├── package.json, vite.config.js
-├── dev-notes.md        ← YOU ARE HERE
 ├── README.md
-├── .gitignore
-└── start.ps1
+└── .gitignore
 ```
 
 ---
