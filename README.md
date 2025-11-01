@@ -14,7 +14,7 @@
 
 | Feature | Status |
 |-------|--------|
-| Check **OAuth 2.0 Desktop Flow** (first-run browser popup) | Done |
+| Check **OAuth 2.0 Desktop Flow**  | Done |
 | Check **Create Meet Link** with title, time, duration, attendees | Done |
 | Check **Auto-Copy to Clipboard** | Done |
 | Check **List Upcoming Meets** (real-time refresh) | Done |
