@@ -45,12 +45,17 @@ FullstackApp/
 │   ├── package.json
 │   └── vite.config.js        # Proxy to backend
 │
-├── dev-notes.md              # Developer diary (REQUIRED)
 ├── README.md                 # ← You are here
-├── .gitignore
-└── start.ps1 (optional)      # One-click start
+└── .gitignore
 ```
-
+google-meet-creator/          
+├── .gitignore                # Git ignore rules
+├── pycache/                  # Python bytecode cache (auto-generated)
+├── README.md                 # Project documentation
+├── dev-notes.md              # Developer diary (REQUIRED)
+├── main.py                   # backend entry point
+├── requirements.txt          # Python dependencies
+└── README.md 
 ---
 
 ## Quick Start (Windows)
