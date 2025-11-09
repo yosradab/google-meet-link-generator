@@ -33,9 +33,8 @@ FullstackApp/
 ├── backend/
 │   ├── main.py               # FastAPI endpoints
 │   ├── auth.py               # OAuth 2.0 (reused from CLI)
-│   ├── google_calendar.py    # Event creation + listing
-│   ├── requirements.txt      # Python deps
-│   └── credentials.json      # ← YOU ADD THIS (ignored)
+│   ├── google_calendar.py    # Event creation + listing 
+│   └── requirements.txt      # Python deps  
 │
 ├── frontend/
 │   ├── src/
