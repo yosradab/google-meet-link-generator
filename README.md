@@ -28,6 +28,7 @@
 ## Project Structure
 
 ```
+google-meet-link-generator/
 FullstackApp/
 ├── backend/
 │   ├── main.py               # FastAPI endpoints
@@ -44,11 +45,10 @@ FullstackApp/
 │   │       └── MeetingList.jsx
 │   ├── package.json
 │   └── vite.config.js        # Proxy to backend
-│
-├── README.md                 # ← You are here
+│                 
 └── .gitignore
 
-google-meet-creator/          
+google-meet-link-generator/google-meet-creator/          
 ├── .gitignore                # Git ignore rules
 ├── pycache/                  # Python bytecode cache (auto-generated)
 ├── README.md                 # Project documentation
