@@ -47,7 +47,7 @@ FullstackApp/
 │
 ├── README.md                 # ← You are here
 └── .gitignore
-```
+
 google-meet-creator/          
 ├── .gitignore                # Git ignore rules
 ├── pycache/                  # Python bytecode cache (auto-generated)
@@ -56,8 +56,8 @@ google-meet-creator/
 ├── main.py                   # backend entry point
 ├── requirements.txt          # Python dependencies
 └── README.md 
----
 
+```
 ## Quick Start (Windows)
 
 ### 1. **Clone & Setup**
